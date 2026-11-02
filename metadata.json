@@ -1,0 +1,6 @@
+{
+  "name": "yurlyfe - Student Hub (Schedule, Finance & Study)",
+  "description": "Comprehensive student hub for managing class timetables, daily tasks, safe-to-spend budgeting, and Google NotebookLM RAG study assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
